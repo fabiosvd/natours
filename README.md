@@ -1,3 +1,3 @@
 # natours
 
-In development
+Natours is a tours app
