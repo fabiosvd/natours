@@ -1,3 +1,3 @@
-# natours
+# Natours
 
 Natours is a tours app
